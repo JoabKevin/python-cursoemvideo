@@ -11,4 +11,9 @@
 ## Símbolos
 * =  - Atribuição
 * == - Igualdade
- 
+
+## Ordem de precedência
+* 1 - ()
+* 2 - **
+* 3 - *, /, //, % por ordem de chegada
+* 4 - +, -
